@@ -1,0 +1,11 @@
+- name: "Institut für Europäische Geschichte"
+  url: "https://www.ieg-mainz.de"
+  image: "/assets/logos/ieg.png"
+
+- name: "Forschungsinstitut ABC"
+  url: "https://www.forschungsinstitut-abc.de"
+  image: "/assets/logos/institute.png"
+
+- name: "Kulturzentrum XYZ"
+  url: "https://www.kulturzentrum-xyz.de"
+  image: "/assets/logos/kulturzentrum.png"
