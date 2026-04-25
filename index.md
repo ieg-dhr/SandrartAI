@@ -3,13 +3,13 @@ layout: default
 title: "Talk to me". Sandrart goes AI
 ---
 
-# 🌟 "Talk to me". Sandrart goes AI
+# "Talk to me". Sandrart goes AI
 
 > **Ein Forschungsprojekt zur KI-gestützten Interaktion mit historischen Künstlerporträts**
 
 Dieses Projekt erforscht, wie Künstliche Intelligenz genutzt werden kann, um historische Porträts von Künstlern wie Sandrart lebendig zu machen – indem sie in Dialoge treten, ihre Gedanken und Werke erklären und die Geschichte der Kunst neu erzählen.
 
-## 🤝 Beteiligte Projektpartner
+## Beteiligte Projektpartner
 
 <div class="partner-logos">
   {% for logo in site.data.logos %}
@@ -19,14 +19,13 @@ Dieses Projekt erforscht, wie Künstliche Intelligenz genutzt werden kann, um hi
   {% endfor %}
 </div>
 
-## 📌 Projektziele
+## Projektziele
 - Entwicklung eines KI-Chatbots, der im Stil von Sandrart spricht
 - Digitalisierung und Annotation historischer Porträts
 - Interaktive Ausstellung im Museum und online
 - Öffentlichkeitsarbeit und Bildung für Jugendliche
 
-> 📌 **Projektlaufzeit**: 2025 – 2027  
-> 📌 **Finanziert durch**: DFG, EU Horizon
+> **Projektlaufzeit**: 2026 
 
 ---
 
