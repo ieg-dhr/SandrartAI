@@ -3,16 +3,8 @@ layout: default
 title: Impressum
 ---
 
-# 📄 Impressum
+# Impressum
 
-## Angaben gemäß § 5 TMG
-
-**"Talk to me". Sandrart goes AI**  
-Verantwortlich für den Inhalt:  
-Dr. Anna Müller  
-Institut für Europäische Geschichte, Universität XYZ  
-12345 Stadt  
-E-Mail: anna.mueller@ieg-dhr.de
 
 ## Haftungsausschluss
 Die Inhalte dieser Website wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte kann keine Gewähr übernommen werden.
@@ -25,6 +17,13 @@ Die Nutzung der Website erfolgt auf eigene Verantwortung. Es werden keine person
 
 ## Links
 Verweise auf fremde Websites erfolgen ohne Gewähr für die Richtigkeit der Inhalte. Der Betreiber übernimmt keine Verantwortung für die Inhalte externer Seiten.
+
+## Kontakt
+Thorsten Wübbena
+Leibniz-Institut für Europäische Geschichte
+Alte Universitätsstrasse 19
+55116 Mainz
+digital@ieg-mainz.de
 
 ---
 
