@@ -1,7 +1,7 @@
 title: "Talk to me". Sandrart goes AI
 description: Ein Forschungsprojekt zur KI-gestützten Interaktion mit der historischen Quelle „Teutsche Academie der Bau-, Bild- und Mahlerey-Künste (Joachim von Sandrart, Nürnberg 1675/1679/1680)“
 baseurl: ""
-url: https://ieg-dhr.github.io/talk-to-me-sandrart-ai
+url: https://ieg-dhr.github.io/SandrartAI
 theme: minima
 markdown: kramdown
 highlighter: rouge
