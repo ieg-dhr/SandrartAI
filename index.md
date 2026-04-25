@@ -34,10 +34,10 @@ Wendig OÜ (Tallinn, Estland)
   <a href="https://www.uni-freiburg.de" target="_blank">
     <img src="/assets/logos/freiburg.png" alt="Albert-Ludwigs-Universität Freiburg" width="180" height="60" style="border: 1px solid #d0d0d0; border-radius: 6px;">
   </a>
-  <a href="https://www.ieg-dhr.de" target="_blank">
-    <img src="/assets/logos/ieg-dhr.png" alt="Leibniz-Institut für Europäische Geschichte" width="180" height="60" style="border: 1px solid #d0d0d0; border-radius: 6px;">
+  <a href="https://www.ieg-mainz.de" target="_blank">
+    <img src="/assets/logos/mainz.png" alt="Leibniz-Institut für Europäische Geschichte" width="180" height="60" style="border: 1px solid #d0d0d0; border-radius: 6px;">
   </a>
-  <a href="https://www.wendig.ee" target="_blank">
+  <a href="https://www.wendig.io" target="_blank">
     <img src="/assets/logos/wendig.png" alt="Wendig OÜ" width="180" height="60" style="border: 1px solid #d0d0d0; border-radius: 6px;">
   </a>
 </div>
