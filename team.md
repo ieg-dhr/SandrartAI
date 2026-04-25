@@ -8,7 +8,7 @@ title: Team
 
 **Anna Schreurs-Morét**|[ORCID](https://orcid.org/0000-0001-9022-8479) | [Wikidata](https://www.wikidata.org/wiki/Q28799959) | [Website](https://uni-freiburg.de/kunstgeschichte/startseite/institut/personen/schreurs-moret/)  
 **Moritz Schepp** |[ORCID](https://orcid.org/0000-0003-4237-816X) | [Wikidata](https://www.wikidata.org/wiki/Q42365385) | [Website](https://wendig.io/) 
-**Paula Schulze** |[ORCID](https://orcid.org/0009-0008-0100-4974) | [Website](https://uni-freiburg.de/kunstgeschichte/startseite/institut/personen/schulze/)
+**Paula Schulze** |[ORCID](https://orcid.org/0009-0008-0100-4974) | | [Website](https://uni-freiburg.de/kunstgeschichte/startseite/institut/personen/schulze/)
 **Thorsten Wübbena** |[ORCID](https://orcid.org/0000-0001-8172-6097) | [Wikidata](https://www.wikidata.org/wiki/Q42737846) | [Website](https://www.ieg-mainz.de/en/person/wuebbena/)
 
 
