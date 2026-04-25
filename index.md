@@ -1,4 +1,3 @@
----
 layout: default
 title: "Talk to me". Sandrart goes AI
 ---
