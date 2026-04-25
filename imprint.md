@@ -19,11 +19,11 @@ Die Nutzung der Website erfolgt auf eigene Verantwortung. Es werden keine person
 Verweise auf fremde Websites erfolgen ohne Gewähr für die Richtigkeit der Inhalte. Der Betreiber übernimmt keine Verantwortung für die Inhalte externer Seiten.
 
 ## Kontakt
-Thorsten Wübbena
-Leibniz-Institut für Europäische Geschichte
-Alte Universitätsstrasse 19
-55116 Mainz
-digital@ieg-mainz.de
+Thorsten Wübbena  
+Leibniz-Institut für Europäische Geschichte  
+Alte Universitätsstrasse 19  
+55116 Mainz  
+[digital@ieg-mainz.de](mailto: digital@ieg-mainz.de)
 
 ---
 
