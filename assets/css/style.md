@@ -1,9 +1,9 @@
 /* ========================
-   🌌 Minimalistisch & Futuristisch
+   🖋️ Klassisch & Minimal: Monochromes Blau-Größe-Spektrum
    ======================== */
 
 body {
-  font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
   line-height: 1.7;
   color: #1a1a1a;
   background-color: #f8f9fa;
@@ -12,21 +12,24 @@ body {
 }
 
 h1, h2, h3, h4 {
-  color: #0f2a45;
   font-weight: 600;
   letter-spacing: -0.02em;
+  margin-top: 0;
+  margin-bottom: 0.5em;
 }
 
 h1 {
   font-size: 2.4rem;
+  color: #0f2a45;
   margin-bottom: 10px;
 }
 
 h2 {
   font-size: 1.8rem;
-  margin-top: 40px;
-  border-bottom: 1px solid #e0e0e0;
+  color: #0f2a45;
+  border-bottom: 1px solid #d0d0d0;
   padding-bottom: 8px;
+  margin-top: 40px;
 }
 
 h3 {

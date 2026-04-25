@@ -11,13 +11,7 @@ Dieses Projekt erforscht, wie Künstliche Intelligenz genutzt werden kann, um hi
 
 ## Beteiligte Projektpartner
 
-<div class="partner-logos">
-  {% for logo in site.data.logos %}
-    <a href="{{ logo.url }}" target="_blank">
-      <img src="{{ logo.image }}" alt="{{ logo.name }}" width="150" style="margin: 10px;">
-    </a>
-  {% endfor %}
-</div>
+
 
 ## Projektziele
 - Entwicklung eines KI-Chatbots, der im Stil von Sandrart spricht
@@ -25,14 +19,13 @@ Dieses Projekt erforscht, wie Künstliche Intelligenz genutzt werden kann, um hi
 - Interaktive Ausstellung im Museum und online
 - Öffentlichkeitsarbeit und Bildung für Jugendliche
 
-> 📌 **Projektlaufzeit**: 2025 – 2027  
-> 📌 **Finanziert durch**: DFG, EU Horizon
+> **Projektlaufzeit**: 2026
 
 ---
 
 ## Weitere Informationen
 
-- [🔍 **Team** – Wer steht hinter dem Projekt?](/team)
+- [🔍 **Team** – Wer steht hinter dem Projekt?](/SandrartAI/team)
 - [📚 **Ressourcen** – Literatur, Daten, Links](/resources)
 - [📄 **Impressum** – Rechtliche Angaben](/imprint)
 
