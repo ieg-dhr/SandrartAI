@@ -23,6 +23,6 @@ Wendig OÜ (Tallinn, Estland)
 
 - [🔍 **Team** – Wer steht hinter dem Projekt?](/SandrartAI/team)
 - [📚 **Ressourcen** – Literatur, Daten, Links](/SandrartAI/resources)
-- [📄 **Impressum** – Rechtliche Angaben](SandrartAI/imprint)
+- [📄 **Impressum** – Rechtliche Angaben](/SandrartAI/imprint)
 
 ---
