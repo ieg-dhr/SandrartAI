@@ -5,52 +5,18 @@ title: Team
 
 # Projektteam
 
-|
- Name 
-|
- Rolle 
-|
- ORCID 
-|
- Wikidata-ID 
-|
- Website 
-|
-
-|
-------
-|
--------
-|
--------
-|
--------------
-|
----------
-|
-
-|
  Prof. Dr. Anna Schreurs-Morét 
-|
  Projektleitung
-|
-
 [
 0000-0001-9022-8479
 ](
 https://orcid.org/0000-0001-9022-8479
 )
-
-|
-
 [
 Q28799959
 ](
 https://www.wikidata.org/wiki/Q28799959
 )
-
-|
-
 [
 Website
 ](
