@@ -21,6 +21,6 @@ Dieses Projekt erforscht, wie Künstliche Intelligenz genutzt werden kann, um di
 
 ## Weitere Informationen
 
-- [🔍 **Team** – Wer steht hinter dem Projekt?](/SandrartAI/team)
-- [📚 **Ressourcen** – Literatur, Daten, Links](/SandrartAI/resources)
-- [📄 **Impressum** – Rechtliche Angaben](/SandrartAI/imprint)
+- [**Team** – Wer steht hinter dem Projekt?](/SandrartAI/team)
+- [**Ressourcen** – Literatur, Daten, Links](/SandrartAI/resources)
+- [**Impressum** – Rechtliche Angaben](/SandrartAI/imprint)
