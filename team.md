@@ -3,9 +3,7 @@ layout: default
 title: Team
 ---
 
-# 👥 Das Projektteam
-
-Hier findest du die Mitglieder des Projekts mit ihren Kontaktdaten und Identifikatoren.
+# Projektteam
 
 |
  Name 
@@ -32,97 +30,97 @@ Hier findest du die Mitglieder des Projekts mit ihren Kontaktdaten und Identifik
 |
 
 |
- Dr. Anna Müller 
+ Prof. Dr. Anna Schreurs-Morét 
 |
- Projektleiterin 
+ Projektleitung
 |
- 
+
 [
-0000-0002-1234-5678
+0000-0001-9022-8479
 ](
-https://orcid.org/0000-0002-1234-5678
+https://orcid.org/0000-0001-9022-8479
 )
- 
+
 |
- 
+
 [
-Q12345678
+Q28799959
 ](
-https://www.wikidata.org/wiki/Q12345678
+https://www.wikidata.org/wiki/Q28799959
 )
- 
+
 |
- 
+
 [
 Website
 ](
-https://annamueller.de
+https://uni-freiburg.de/kunstgeschichte/startseite/institut/personen/schreurs-moret/
 )
- 
+
 |
 
 |
- Prof. Dr. Klaus Weber 
+ Thorsten Wübbena 
 |
- Wissenschaftlicher Berater 
+ Projektleitung
 |
- 
+
 [
-0000-0003-4567-8901
+0000-0001-8172-6097
 ](
-https://orcid.org/0000-0003-4567-8901
+https://orcid.org/0000-0001-8172-6097
 )
- 
+
 |
- 
+
 [
-Q23456789
+Q42737846
 ](
-https://www.wikidata.org/wiki/Q23456789
+https://www.wikidata.org/wiki/Q42737846
 )
- 
+
 |
- 
+
 [
 Website
 ](
-https://klausweber.org
+https://www.ieg-mainz.de/person/wuebbena/
 )
- 
+
 |
 
 |
- Dr. Lena Schmidt 
+ Moritz Schepp 
 |
- Postdoc 
+ Softwareentwicklung 
 |
- 
+
 [
-0000-0001-2345-6789
+0000-0003-4237-816X
 ](
-https://orcid.org/0000-0001-2345-6789
+https://orcid.org/0000-0003-4237-816X
 )
- 
+
 |
- 
+
 [
-Q34567890
+Q42365385
 ](
-https://www.wikidata.org/wiki/Q34567890
+https://www.wikidata.org/wiki/Q42365385
 )
- 
+
 |
- 
+
 [
 Website
 ](
-https://lenaschmidt.info
+https://wendig.io/
 )
- 
+
 |
 
 
-> 💡 **Hinweis**: Alle ORCID- und Wikidata-Links führen zu den offiziellen Profilen.
+
 
 ---
 
