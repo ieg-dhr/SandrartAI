@@ -1,7 +1,3 @@
-/* ========================
-   🖋️ Klassisch & Minimal: Monochromes Blau-Größe-Spektrum
-   ======================== */
-
 body {
   font-family: 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
   line-height: 1.7;
