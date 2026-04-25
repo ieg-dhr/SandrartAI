@@ -7,17 +7,13 @@ title: "Talk to me". Sandrart goes AI
 
 > **Ein Forschungsprojekt zur KI-gestützten Interaktion mit historischen Künstlerporträts**
 
-Dieses Projekt erforscht, wie Künstliche Intelligenz genutzt werden kann, um historische Porträts von Künstlern wie Sandrart lebendig zu machen – indem sie in Dialoge treten, ihre Gedanken und Werke erklären und die Geschichte der Kunst neu erzählen.
+Dieses Projekt erforscht, wie Künstliche Intelligenz genutzt werden kann, um die historische Quelle „Teutsche Academie der Bau-, Bild- und Mahlerey-Künste (1675/1679/1680“ von Joachim Von Sandart „lebendig“ zu machen. Wie kann ein Dialogmöglichkeit für eine breite Zielgruppe gestaltet werden und wie ermöglicht dieser Technologieeinsatz einen anderen Blick auf Sandrarts Text, die von ihm beschriebenen Kunstwerke und seine Sicht auf die Zeit.  
 
 ## Beteiligte Projektpartner
 
-
-
-## Projektziele
-- Entwicklung eines KI-Chatbots, der im Stil von Sandrart spricht
-- Digitalisierung und Annotation historischer Porträts
-- Interaktive Ausstellung im Museum und online
-- Öffentlichkeitsarbeit und Bildung für Jugendliche
+Kunstgeschichtliches Institut (Albert-Ludwigs-Universität Freiburg)
+Leibniz-Institut für Europäische Geschichte (IEG), Mainz
+Wendig OÜ (Tallinn, Estland)
 
 > **Projektlaufzeit**: 2026
 
