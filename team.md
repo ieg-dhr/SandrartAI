@@ -8,7 +8,7 @@ title: Team
 
 ## Kunstgeschichtliches Institut (Universität Freiburg)
 **Anna Schreurs-Morét** | [ORCID](https://orcid.org/0000-0001-9022-8479) | [Wikidata](https://www.wikidata.org/wiki/Q28799959) |  [Website](https://uni-freiburg.de/kunstgeschichte/startseite/institut/personen/schreurs-moret/)  
-**Paula Schulze** | [ORCID](https://orcid.org/0009-0008-0100-4974) | | [Website](https://uni-freiburg.de/kunstgeschichte/startseite/institut/personen/schulze/)
+**Paula Schulze** | [ORCID](https://orcid.org/0009-0008-0100-4974) | [Website](https://uni-freiburg.de/kunstgeschichte/startseite/institut/personen/schulze/)
 
 ## Wendig OÜ (Tallinn)
 **Moritz Schepp** | [ORCID](https://orcid.org/0000-0003-4237-816X) | [Wikidata](https://www.wikidata.org/wiki/Q42365385) | [Website](https://wendig.io/) 
